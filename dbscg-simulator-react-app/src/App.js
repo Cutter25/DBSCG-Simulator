@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <Header />
-      // The above tag is "Self-Closing!"
     </div>
   );
 }
